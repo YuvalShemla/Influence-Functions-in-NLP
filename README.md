@@ -14,6 +14,6 @@ The paper addresses the challenges of **interpretability** in modern machine lea
 3. Develop defenses against **data poisoning attacks**, where adversarial data is injected into the training set to degrade model performance.
 
 ### Resources
-- **White Paper**: The white paper is uploaded here for reference.  
-- **Implementations**: You can find the implementations in this repository:  
+- **White Paper**: The white paper is uploaded above as a pdf.  
+- **Implementations**: The Notebooks and the code files can be found in this repository:  
   [https://github.com/goutzou/Data-Poisoning](https://github.com/goutzou/Data-Poisoning)
