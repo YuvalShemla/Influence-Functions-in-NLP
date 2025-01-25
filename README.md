@@ -15,5 +15,5 @@ The paper addresses the challenges of **interpretability** in modern machine lea
 
 ### Resources
 - **White Paper**: The white paper is uploaded here for reference.  
-- **Implementations**: You can find the code and simulations in this repository:  
+- **Implementations**: You can find the implementations in this repository:  
   [https://github.com/goutzou/Data-Poisoning](https://github.com/goutzou/Data-Poisoning)
